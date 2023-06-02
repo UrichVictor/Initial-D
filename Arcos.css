@@ -1,0 +1,28 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.Arcos{
+    background-color: rgba(0, 0, 0, 0.486);
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 40px;
+    box-shadow: 0 0 40px #ffffff;
+    background-attachment: fixed;
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+h3{
+    text-align: center;
+    color: #ffffff;
+    font-size: 70px;
+    text-shadow: 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 10px #000000, 0 0 30px #000000;
+}
+
+body{
+    background-image: url("initial\ d.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
